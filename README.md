@@ -1,0 +1,1 @@
+This is a simple game made for a class at SFSU. All you need is a Java IDE and to compile and play. Enjoy!
