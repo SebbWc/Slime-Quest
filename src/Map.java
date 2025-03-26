@@ -1,4 +1,4 @@
-//This class has all map related features. By the way, I was seriously afraid about how I would program this part until I saw you can pass a scanner as an argument during our lecture! (:
+//This class has all map related features.
 
 import java.util.Scanner;
 
@@ -17,7 +17,7 @@ public class Map {
         System.out.println("D = Doorway, a-q = Different rooms, X = monsters, S = shrines, K = king, step on him to win! Missing spaces are walls.");
     }
 
-    public static void ExamineRoom(player Jim,Scanner ExamineRoominput){
+    public static void ExamineRoom(player Jim,Scanner ExamineRoominput){ //scanner as argument
 
         //The char responsible for yes or no prompts when interacting.
         char YesOrNo;
