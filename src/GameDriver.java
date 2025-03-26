@@ -26,7 +26,7 @@ public class GameDriver {
         //Use to end program.
         boolean map = true;
 
-        //Greeting message, sorry by the way maybe I have been playing to much morrowind but I really don't mind walls of text in my games to read.
+        //Greeting message
         System.out.println("Just an initial note:");
         System.out.println("You have to stand on something to interact with it. (but X's are slimes and combat will start once enter their space)");
         System.out.println("Blank spaces are walls. Capital lettered spaces are intractable. Lower case letters you can only examine.");
