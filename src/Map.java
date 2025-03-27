@@ -404,7 +404,7 @@ public class Map {
         System.out.println("You have " + Jim.currstamina + "/" + Jim.maxstamina + " stamina with " + Jim.staminaregen + " stamina regen.");
         System.out.println("Key: f = fists, H = healthpotion, G = greataxe, L = longsword.");
         System.out.println("Weapon currently equipped: " + Jim.weapon);
-        System.out.println("Inventory: " + Jim.inventory[0] + " , " + Jim.inventory[1] + " , " + Jim.inventory[2] + " , " + Jim.inventory[3]); //I wrote this out once and copy and pasted it whenever I used it again, I do know a for loop would be cleaner.
+        System.out.println("Inventory: " + Jim.inventory[0] + " , " + Jim.inventory[1] + " , " + Jim.inventory[2] + " , " + Jim.inventory[3]); 
         System.out.println();
 
     }
