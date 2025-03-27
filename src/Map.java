@@ -60,7 +60,7 @@ public class Map {
                 System.out.println("This is a shrine room, with only one entrance.");
                 break;
             case 'm':
-                System.out.println("A small 3x3 room with a crown in the middle. The crown is mushing a foot sized puddle of a slime. I should step on him!");
+                System.out.println("A small 3x3 room with a crown in the middle. The crown has a conviently foot sized puddle of a slime insite it.");
                 break;
             case 'n':
                 System.out.println("This is a hallway.");
